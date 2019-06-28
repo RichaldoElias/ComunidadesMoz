@@ -14,6 +14,7 @@ To have right responses, is important to find right people which can respond
 to your questions, so this repository lists the communities of software developers
 in Mozambique, with their respective contacts.
 
+
 ### Contributions
 If you know a community that's not listed here, you can send a PR, which will be of great pleasure to add.
 

@@ -27,6 +27,7 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 * [MozDevz](#MozDevz)
 * [PHP Maputo Community](#PHP-Maputo-Community)
 * [PyCom](#machine-learning-engineer-nanodegree)
+* [RIHA Community](#RIHA-Community)
 
 ---
 
@@ -85,4 +86,14 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 
   1. [Whatsapp](https://chat.whatsapp.com/ILHtN728Hhp1St5Ag9eDji)
 
+</details>
+
+### RIHA Community
+
+<details>
+  <summary>Ver detalhes</summary>
+  Via de comunicação
+  
+  1. [RIHA website](https://www.riha.co.mz)
+  2. [WhatsApp](To be add)
 </details>

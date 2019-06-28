@@ -1,4 +1,4 @@
-# Comunidades de Desenvolvedores de Mocambique
+# Comunidades de Desenvolvedores de Moçambique
 
 ## O que é uma comunidade?
 
@@ -11,35 +11,40 @@ outras finalidades.
 ## Porquê deste repositório?
 De forma a ter respostas certas, é importante encontrar pessoas certas que possam
 responder suas perguntas, desta forma, este repositório lista comunidades de desenvolvedores
-de software em Moçambique, com os respectivos meios de contacto 
+de software em Moçambique, com os respectivos meios de contacto.
 
 
 ### Contribuições
-Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de maior agrado adicionar
+Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de maior agrado adicionar.
 
 
 ---
 
 ## Índice
 
-* [GDG - Google Developers Group](#front-end-web-developer-nanodegree)
-* [Lepsta](#full-stack-web-developer-nanodegree)
-* [MozDevz](#senior-web-developer-nanodegree)
-* [PHP](#data-analyst-nanodegree)
+* [GDG - Google Developers Group](#GDG---Google-Developers-Group)
+* [Lepsta](#Lepsta)
+* [MozDevz](#MozDevz)
+* [PHP Maputo Community](#PHP-Maputo-Community)
 * [PyCom](#machine-learning-engineer-nanodegree)
 
 ---
 
 ### GDG - Google Developers Group
 
+  GDG Maputo é uma comunidade local para desenvolvedores interessados em Tecnologias da Google.
+  Em Moçambique, GDG encontra-se em 3 cidades: Maputo, Beira e Tete.
+ 
 <details>
+  
   <summary>Ver detalhes</summary>
-  Via de Comunicação 
+  Vias de Comunicação 
 
-  1. [Facebook](https://pt-br.facebook.com/gdgmaputo/)
-  2. [Medium](https://medium.com/android-dev-moz)
-  3. [Meetup](https://www.meetup.com/pt-BR/GDG-Maputo/
-)
+  1. [Meetup (Maputo)](https://www.meetup.com/pt-BR/GDG-Maputo/)
+  2. [Meetup (Beira)](https://www.meetup.com/pt-BR/Beira-GDG/)
+  3. [Meetup (Tete)](https://www.meetup.com/pt-BR/GDG-TETE/)
+  4. [Grupo do Facebook (Maputo)](https://pt-br.facebook.com/groups/gdgmaputo/)
+  5. [Medium](https://medium.com/android-dev-moz)
   
 </details>
 
@@ -66,7 +71,7 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
   
   1. [Facebook](https://www.facebook.com/mozdevz/)
   2. [Meetup](https://www.meetup.com/pt-BR/Mozdevz/)
-  3. [Telegram](t.me/MozDevz)
+  3. [Telegram](https://t.me/MozDevz)
 
 </details>
 

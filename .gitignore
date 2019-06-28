@@ -3,3 +3,5 @@
 .vscode-insiders/
 .history/
 *.code-workspace
+.idea
+.editorConfig

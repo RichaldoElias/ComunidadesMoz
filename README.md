@@ -79,10 +79,33 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 
 ### PHP Maputo Community
 
+  PHP Maputo Community é uma comunidade PHP Moçambicana baseada em Maputo, para desenvolvedores de
+  software com interesses em PHP e Hack (HHVM) do Facebook.
+
 <details>
   <summary>Ver detalhes</summary>
    Via de Comunicação 
 
-  1. [Whatsapp](https://chat.whatsapp.com/ILHtN728Hhp1St5Ag9eDji)
+  1. [WhatsApp](https://chat.whatsapp.com/ILHtN728Hhp1St5Ag9eDji)
 
 </details>
+
+### RIHA Community
+
+  RIHA Community é um grupo de jovens Moçambicanos usuários, analistas, 
+  desenvolvedores e seguidores de produtos que tem alguma relação com a Riha, 
+  com tantos desafios na divisão digital em Moçambique, 
+  a nossa comunidade serve como uma central de análises de comportamentos.
+
+  RIHA é uma plataforma inovadora que permite oferecer serviços 
+  de transferência de dinheiro e pagamentos de bens e serviços pela Internet.
+  Permite também efetuar depósitos e levantamentos de dinheiro através de agentes autorizados.
+
+<details>
+  <summary>See details</summary>
+  Contacts
+  
+  1. [RIHA website](https://www.riha.co.mz)
+  2. [WhatsApp](https://chat.whatsapp.com/DRNbVPySnZS5snQH6RgdH6)
+</details>
+

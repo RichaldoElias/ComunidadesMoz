@@ -22,7 +22,7 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 
 ## Índice
 
-* [GDG - Google Developers Group](#GDG---Google-Developers-Group)
+* [GDG - Google Developers Group (Maputo)](#GDG---Google-Developers-Group)
 * [Lepsta](#Lepsta)
 * [MozDevz](#MozDevz)
 * [PHP Maputo Community](#PHP-Maputo-Community)

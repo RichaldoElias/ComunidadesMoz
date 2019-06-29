@@ -72,7 +72,7 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 
 ---
 
-### PHP
+### PHP Maputo Community
 
 <details>
   <summary>Ver detalhes</summary>

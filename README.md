@@ -94,24 +94,51 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 
 ### Python Community Maputo
 
+<details>
+  <summary>Ver detalhes</summary>
+   Via de Comunicação
+
 1. [Whatsapp](https://chat.whatsapp.com/AtlP04I9rTL1GTbHPHKe3P)
+
+</details>
+
 
 ---
 
 ### Js Maputo Community
 
+<details>
+  <summary>Ver detalhes</summary>
+   Via de Comunicação
+
 1. [Whatsapp](https://chat.whatsapp.com/1ZXaVqxGSM99MbMbnqPtur)
+
+</details>
+
 
 ---
 
 ### MuthianaCode Community
 
+<details>
+  <summary>Ver detalhes</summary>
+   Via de Comunicação
+
 1. [Facebook](https://www.facebook.com/muthianacode/)
 2. [Whatsapp](https://chat.whatsapp.com/0Cm3XN6P6KNCAigPCJwpuo)
 3. [Instagram](https://www.instagram.com/muthianacode/)
+
+</details>
+
 
 ---
 
 ### Women Techmakers Maputo
 
+<details>
+  <summary>Ver detalhes</summary>
+   Via de Comunicação
+
 1. [Whatsapp](https://chat.whatsapp.com/5LiLKX509TlBQwkSN1bXqH)
+
+</details>

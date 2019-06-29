@@ -2,13 +2,14 @@
 
 ## O que é uma comunidade?
 
-Bem, podemos entender uma comunidade como um grupo de pessoas com objectivos 
+Bem, podemos entender uma comunidade como um grupo de pessoas com objectivos
 em comum que se reúnem com a intenção de partilhar ideias, aprender juntos, entre
 outras finalidades.
 
 ---
 
-## Porquê deste repositório?
+## Por que deste repositório?
+
 De forma a ter respostas certas, é importante encontrar pessoas certas que possam
 responder suas perguntas, desta forma, este repositório lista comunidades de desenvolvedores
 de software em Moçambique, com os respectivos meios de contacto.
@@ -26,26 +27,28 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 * [Lepsta](#Lepsta)
 * [MozDevz](#MozDevz)
 * [PHP Maputo Community](#PHP-Maputo-Community)
-* [PyCom](#machine-learning-engineer-nanodegree)
-
+* [Python Community Maputo](#Python-Community-Maputo)
+* [JS Maputo Community](#Js-Maputo-Community)
+* [MuthianaCode Community](#MuthianaCode-Community)
+* [Women Techmakers Maputo](#Women-Techmakers-Maputo)
 ---
 
 ### GDG - Google Developers Group
 
   GDG Maputo é uma comunidade local para desenvolvedores interessados em Tecnologias da Google.
   Em Moçambique, GDG encontra-se em 3 cidades: Maputo, Beira e Tete.
- 
+
 <details>
-  
+
   <summary>Ver detalhes</summary>
-  Vias de Comunicação 
+  Vias de Comunicação
 
   1. [Meetup (Maputo)](https://www.meetup.com/pt-BR/GDG-Maputo/)
   2. [Meetup (Beira)](https://www.meetup.com/pt-BR/Beira-GDG/)
   3. [Meetup (Tete)](https://www.meetup.com/pt-BR/GDG-TETE/)
   4. [Grupo do Facebook (Maputo)](https://pt-br.facebook.com/groups/gdgmaputo/)
   5. [Medium](https://medium.com/android-dev-moz)
-  
+
 </details>
 
 ---
@@ -54,10 +57,10 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 
 <details>
   <summary>Ver detalhes</summary>
-  Via de Comunicação 
+  Via de Comunicação
 
   1. [Meetup](https://www.meetup.com/pt-BR/Lepsta-Developers-Maputo/)
-  
+
 
 </details>
 
@@ -67,8 +70,8 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 
 <details>
   <summary>Ver detalhes</summary>
-   Via de Comunicação 
-  
+   Via de Comunicação
+
   1. [Facebook](https://www.facebook.com/mozdevz/)
   2. [Meetup](https://www.meetup.com/pt-BR/Mozdevz/)
   3. [Telegram](https://t.me/MozDevz)
@@ -81,8 +84,34 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 
 <details>
   <summary>Ver detalhes</summary>
-   Via de Comunicação 
+   Via de Comunicação
 
   1. [Whatsapp](https://chat.whatsapp.com/ILHtN728Hhp1St5Ag9eDji)
 
 </details>
+
+---
+
+### Python Community Maputo
+
+1. [Whatsapp](https://chat.whatsapp.com/AtlP04I9rTL1GTbHPHKe3P)
+
+---
+
+### Js Maputo Community
+
+1. [Whatsapp](https://chat.whatsapp.com/1ZXaVqxGSM99MbMbnqPtur)
+
+---
+
+### MuthianaCode Community
+
+1. [Facebook](https://www.facebook.com/muthianacode/)
+2. [Whatsapp](https://chat.whatsapp.com/0Cm3XN6P6KNCAigPCJwpuo)
+3. [Instagram](https://www.instagram.com/muthianacode/)
+
+---
+
+### Women Techmakers Maputo
+
+1. [Whatsapp](https://chat.whatsapp.com/5LiLKX509TlBQwkSN1bXqH)

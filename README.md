@@ -1,19 +1,20 @@
 # Comunidades de Desenvolvedores de Mocambique
 
-##O que é uma comunidade?
+## O que é uma comunidade?
+
 Bem, podemos entender uma comunidade como um grupo de pessoas com objectivos 
 em comum que se reúnem com a intenção de partilhar ideias, aprender juntos, entre
 outras finalidades.
 
 ---
 
-##Porquê deste repositório?
+## Porquê deste repositório?
 De forma a ter respostas certas, é importante encontrar pessoas certas que possam
 responder suas perguntas, desta forma, este repositório lista comunidades de desenvolvedores
 de software em Moçambique, com os respectivos meios de contacto 
 
 
-###Contribuições
+### Contribuições
 Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de maior agrado adicionar
 
 
@@ -33,7 +34,7 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 
 <details>
   <summary>Ver detalhes</summary>
-  #### Via de Comunicação 
+  Via de Comunicação 
 
   1. [Facebook](https://pt-br.facebook.com/gdgmaputo/)
   2. [Medium](https://medium.com/android-dev-moz)
@@ -48,7 +49,7 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 
 <details>
   <summary>Ver detalhes</summary>
-  #### Via de Comunicação 
+  Via de Comunicação 
 
   1. [Meetup](https://www.meetup.com/pt-BR/Lepsta-Developers-Maputo/)
   
@@ -61,7 +62,7 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 
 <details>
   <summary>Ver detalhes</summary>
-  #### Via de Comunicação 
+   Via de Comunicação 
   
   1. [Facebook](https://www.facebook.com/mozdevz/)
   2. [Meetup](https://www.meetup.com/pt-BR/Mozdevz/)
@@ -75,7 +76,7 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 
 <details>
   <summary>Ver detalhes</summary>
-  #### Via de Comunicação 
+   Via de Comunicação 
 
   1. [Whatsapp](https://chat.whatsapp.com/ILHtN728Hhp1St5Ag9eDji)
 

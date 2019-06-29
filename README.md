@@ -102,7 +102,6 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 
 </details>
 
-
 ---
 
 ### Js Maputo Community
@@ -115,7 +114,6 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 
 </details>
 
-
 ---
 
 ### MuthianaCode Community
@@ -124,12 +122,13 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
   <summary>Ver detalhes</summary>
    Via de Comunicação
 
+
 1. [Facebook](https://www.facebook.com/muthianacode/)
 2. [Whatsapp](https://chat.whatsapp.com/0Cm3XN6P6KNCAigPCJwpuo)
 3. [Instagram](https://www.instagram.com/muthianacode/)
 
-</details>
 
+</details>
 
 ---
 

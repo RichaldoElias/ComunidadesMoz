@@ -24,12 +24,13 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 ## Índice
 
 * [GDG - Google Developers Group (Moçambique)](#GDG---Google-Developers-Group)
+* [JS Maputo Community](#Js-Maputo-Community)
 * [Lepsta](#Lepsta)
 * [MozDevz](#MozDevz)
+* [MuthianaCode Community](#MuthianaCode-Community)
 * [PHP Maputo Community](#PHP-Maputo-Community)
 * [Python Community Maputo](#Python-Community-Maputo)
-* [JS Maputo Community](#Js-Maputo-Community)
-* [MuthianaCode Community](#MuthianaCode-Community)
+* [RIHA Community](#RIHA-Community)
 * [Women Techmakers Maputo](#Women-Techmakers-Maputo)
 ---
 
@@ -48,6 +49,18 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
   3. [Meetup (Tete)](https://www.meetup.com/pt-BR/GDG-TETE/)
   4. [Grupo do Facebook (Maputo)](https://pt-br.facebook.com/groups/gdgmaputo/)
   5. [Medium](https://medium.com/android-dev-moz)
+
+</details>
+
+---
+
+### Js Maputo Community
+
+<details>
+  <summary>Ver detalhes</summary>
+   Via de Comunicação
+
+1. [Whatsapp](https://chat.whatsapp.com/1ZXaVqxGSM99MbMbnqPtur)
 
 </details>
 
@@ -80,6 +93,22 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 
 ---
 
+### MuthianaCode Community
+
+<details>
+  <summary>Ver detalhes</summary>
+   Via de Comunicação
+
+
+1. [Facebook](https://www.facebook.com/muthianacode/)
+2. [Whatsapp](https://chat.whatsapp.com/0Cm3XN6P6KNCAigPCJwpuo)
+3. [Instagram](https://www.instagram.com/muthianacode/)
+
+
+</details>
+
+---
+
 ### PHP Maputo Community
 
   PHP Maputo Community é uma comunidade PHP Moçambicana baseada em Maputo, para desenvolvedores de
@@ -90,6 +119,18 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
    Via de Comunicação
 
   1. [WhatsApp](https://chat.whatsapp.com/ILHtN728Hhp1St5Ag9eDji)
+
+</details>
+
+---
+
+### Python Community Maputo
+
+<details>
+  <summary>Ver detalhes</summary>
+   Via de Comunicação
+
+1. [Whatsapp](https://chat.whatsapp.com/AtlP04I9rTL1GTbHPHKe3P)
 
 </details>
 
@@ -112,46 +153,6 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
   
   1. [RIHA website](https://www.riha.co.mz)
   2. [WhatsApp](https://chat.whatsapp.com/DRNbVPySnZS5snQH6RgdH6)
-</details>
-
----
-
-### Python Community Maputo
-
-<details>
-  <summary>Ver detalhes</summary>
-   Via de Comunicação
-
-1. [Whatsapp](https://chat.whatsapp.com/AtlP04I9rTL1GTbHPHKe3P)
-
-</details>
-
----
-
-### Js Maputo Community
-
-<details>
-  <summary>Ver detalhes</summary>
-   Via de Comunicação
-
-1. [Whatsapp](https://chat.whatsapp.com/1ZXaVqxGSM99MbMbnqPtur)
-
-</details>
-
----
-
-### MuthianaCode Community
-
-<details>
-  <summary>Ver detalhes</summary>
-   Via de Comunicação
-
-
-1. [Facebook](https://www.facebook.com/muthianacode/)
-2. [Whatsapp](https://chat.whatsapp.com/0Cm3XN6P6KNCAigPCJwpuo)
-3. [Instagram](https://www.instagram.com/muthianacode/)
-
-
 </details>
 
 ---

@@ -11,7 +11,7 @@ others purposes.
 ## Why the creation of this repository?
 
 In order to have the right answers, it is important to find the right people who can
-answer your questions, this way, this repository lists communities of software 
+answer your questions, this way, this repository lists communities of software
 developers in Mozambique, with the respective means of contact.
 
 ### Contributions
@@ -33,18 +33,18 @@ If you know a community that's not listed here, you can send a PR, which will be
 ### GDG - Google Developers Group
 
   GDG Maputo is a local community for developers interested in Google technologies.
-  In Mozambique, GDG it's located in 3 cities: Maputo, Beira and Tete. 
+  In Mozambique, GDG it's located in 3 cities: Maputo, Beira and Tete.
 <details>
-  
+
   <summary>See details</summary>
-  Contacts 
+  Contacts
 
   1. [Meetup (Maputo)](https://www.meetup.com/pt-BR/GDG-Maputo/)
   2. [Meetup (Beira)](https://www.meetup.com/pt-BR/Beira-GDG/)
   3. [Meetup (Tete)](https://www.meetup.com/pt-BR/GDG-TETE/)
   4. [Facebook's Group (Maputo)](https://pt-br.facebook.com/groups/gdgmaputo/)
   5. [Medium](https://medium.com/android-dev-moz)
-  
+
 </details>
 
 ---
@@ -53,10 +53,10 @@ If you know a community that's not listed here, you can send a PR, which will be
 
 <details>
   <summary>See details</summary>
-  Contacts 
+  Contacts
 
   1. [Meetup](https://www.meetup.com/pt-BR/Lepsta-Developers-Maputo/)
-  
+
 
 </details>
 
@@ -66,8 +66,8 @@ If you know a community that's not listed here, you can send a PR, which will be
 
 <details>
   <summary>Se details</summary>
-   Contacts 
-  
+   Contacts
+
   1. [Facebook](https://www.facebook.com/mozdevz/)
   2. [Meetup](https://www.meetup.com/pt-BR/Mozdevz/)
   3. [Telegram](https://t.me/MozDevz)
@@ -103,7 +103,7 @@ If you know a community that's not listed here, you can send a PR, which will be
 <details>
   <summary>See details</summary>
   Contacts
-  
+
   1. [RIHA's website](https://www.riha.co.mz)
   2. [WhatsApp](https://chat.whatsapp.com/DRNbVPySnZS5snQH6RgdH6)
 </details>

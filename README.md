@@ -73,6 +73,7 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
   Via de Comunicação
 
   1. [Meetup](https://www.meetup.com/pt-BR/Lepsta-Developers-Maputo/)
+  2. [LinkedIn](https://www.linkedin.com/company/lepsta)
 
 
 </details>

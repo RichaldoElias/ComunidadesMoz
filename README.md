@@ -90,6 +90,7 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
   2. [Meetup](https://www.meetup.com/pt-BR/Mozdevz/)
   3. [Telegram](https://t.me/MozDevz)
 
+
 </details>
 
 ---
@@ -104,7 +105,7 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 1. [Facebook](https://www.facebook.com/muthianacode/)
 2. [Whatsapp](https://chat.whatsapp.com/0Cm3XN6P6KNCAigPCJwpuo)
 3. [Instagram](https://www.instagram.com/muthianacode/)
-
+4. [LinkedIn](https://www.linkedin.com/company/mozdevz)
 
 </details>
 

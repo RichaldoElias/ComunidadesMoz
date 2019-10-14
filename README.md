@@ -179,6 +179,6 @@ Em Moçambique, a DSC encontra-se na Universidade Eduardo Mondlane.
   <summary>Ver detalhes</summary>
   Via de Comunicação
 
-1. [Slack (Universidade Eduardo Mondlane)](developerstud-icp6261.slack.com)
+1. [Slack (Universidade Eduardo Mondlane)](https://developerstud-icp6261.slack.com)
 
 </details>

@@ -27,6 +27,7 @@ If you know a community that's not listed here, you can send a PR, which will be
 * [PHP Maputo Community](#PHP-Maputo-Community)
 * [PyCom](#machine-learning-engineer-nanodegree)
 * [RIHA Community](#RIHA-Community)
+* [DSC - Eduardo Mondlane University](DSC---Eduardo-Mondlane-University)
 
 ---
 
@@ -108,3 +109,14 @@ If you know a community that's not listed here, you can send a PR, which will be
   2. [WhatsApp](https://chat.whatsapp.com/DRNbVPySnZS5snQH6RgdH6)
 </details>
 
+### DSC - Eduardo Mondlane University
+
+  DSC (Developer Student Clubs) Eduardo Mondlane University is a university based community group for students from Eduardo Mondlane University interested in Google developer technologies. Eduardo Mondlane University Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a DSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community.
+
+<details>
+  <summary>See details</summary>
+   Contacts
+
+1. [Twitter](https://twitter.com/dscuem)
+
+</details>

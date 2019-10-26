@@ -32,7 +32,7 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 * [Python Community Maputo](#Python-Community-Maputo)
 * [RIHA Community](#RIHA-Community)
 * [Women Techmakers Maputo](#Women-Techmakers-Maputo)
-* [DSC Eduardo Mondlane University](#DSC-Eduardo-Mondlane-University)
+* [DSC Universidade Eduardo Mondlane](#DSC-Universidade-Eduardo-Mondlane)
 ---
 
 ### GDG - Google Developers Group
@@ -168,9 +168,9 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 
 </details>
 
-### DSC Eduardo Mondlane University
+### DSC Universidade Eduardo Mondlane
 
-  DSC (Developer Student Clubs) Eduardo Mondlane University é uma comunidade universitária para estudantes interessados em Tecnologias da Google. Estudantes de todos os programas de graduação ou pós-graduação da Universidade Eduardo Mondlane com interesse em crescer como desenvolvedor são bem-vindos. Ao ingressar no DSC UEM, os estudantes ampliam seus conhecimentos em um ambiente de aprendizado e criam soluções para empresas locais e sua comunidade.
+  DSC (Developer Student Clubs) Universidade Eduardo Mondlane é uma comunidade universitária para estudantes interessados em Tecnologias da Google. Estudantes de todos os programas de graduação ou pós-graduação da Universidade Eduardo Mondlane com interesse em crescer como desenvolvedor são bem-vindos. Ao ingressar no DSC UEM, os estudantes ampliam seus conhecimentos em um ambiente de aprendizado e criam soluções para empresas locais e sua comunidade.
 
 <details>
   <summary>Ver detalhes</summary>

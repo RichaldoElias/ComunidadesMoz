@@ -32,7 +32,7 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 * [Python Community Maputo](#Python-Community-Maputo)
 * [RIHA Community](#RIHA-Community)
 * [Women Techmakers Maputo](#Women-Techmakers-Maputo)
-* [Developer Student Clubs](#developer-student-clubs)
+* [Developer Student Club Universidade Eduardo Mondlane](#developer-student-club-universidade-eduardo-mondlane)
 ---
 
 ### GDG - Google Developers Group
@@ -169,16 +169,18 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 
 ---
 
-### Developer Student Clubs
+### Developer Student Club Universidade Eduardo Mondlane
 
-Developer Student Clubs é uma comunidade ou club de estudantes universitários interessados em tecnologias da Google que se
-reúnem para aprender e resolver os problemas da sua comunidade.
-Em Moçambique, a DSC encontra-se na Universidade Eduardo Mondlane.
+Developer Student Club Universidade Eduardo Mondlane é uma comunidade ou clube de estudantes universitários da Universidade Eduardo Mondlane interessados em tecnologias da Google que se reúnem para aprender e resolver os problemas da sua comunidade.
 
 <details>
   <summary>Ver detalhes</summary>
   Via de Comunicação
 
-1. [Slack (Universidade Eduardo Mondlane)](https://developerstud-icp6261.slack.com)
-
+1. [DSC Community dev](https://dsc.community.dev/eduardo-mondlane-university/)
+2. [Whatsapp](https://chat.whatsapp.com/GbffWZoduIV6N8Q41u25Ax)
+3. [Twitter](https://twitter.com/dscuem)
+4. [Instagram](https://www.instagram.com/dscuem/)
 </details>
+
+---

@@ -33,6 +33,11 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 * [RIHA Community](#RIHA-Community)
 * [Women Techmakers Maputo](#Women-Techmakers-Maputo)
 * [Developer Student Club Universidade Eduardo Mondlane](#developer-student-club-universidade-eduardo-mondlane)
+* [Maputo Frontenders](#Maputo-Frontenders)
+* [Flutter Moçambique](#flutter-moçambique)
+* [Paymentds Community](#Paymentds-Community)
+* [Laravel Maputo Community](#Laravel-Maputo-Community)
+* [MozDevz Beira](#MozDevz-Beira)
 ---
 
 ### GDG - Google Developers Group
@@ -182,5 +187,68 @@ Developer Student Club Universidade Eduardo Mondlane é uma comunidade ou clube 
 3. [Twitter](https://twitter.com/dscuem)
 4. [Instagram](https://www.instagram.com/dscuem/)
 </details>
+
+
+---
+### Maputo Frontenders
+
+Somos uma comunidade de desenvolvedores com foco em partilhar conhecimento sobre as tecnologias e boas práticas de desenvolvimento frontend.
+
+<details>
+  <summary>Ver detalhes</summary>
+  Via de Comunicação
+
+- [ Maputo Frontenders Community ](https://bit.ly/MptFrontenders)
+- [Whatsapp](https://bit.ly/MFrontendersWhatsApp)
+- [Twitter](https://bit.ly/MFrontendersTwitter)
+- [Instagram](https://bit.ly/InstaMptFrontenders)
+- [LinkedIn](https://bit.ly/MFrontendersLinkedIn)
+- [YouTube](https://bit.ly/YTmptFrontenders)
+
+</details>
+---
+
+### Flutter Moçambique
+
+<details>
+  <summary>Ver detalhes</summary>
+  Via de Comunicação
+
+- [Telegram](https://t.me/FlutterMoz)
+- [Whatsapp](https://chat.whatsapp.com/LDCa69V6G6m2EPvHlLEjiz)
+
+</details>
+---
+
+### Laravel Maputo Community
+
+<details>
+  <summary>Ver detalhes</summary>
+  Via de Comunicação
+
+1. [Whatsapp](https://chat.whatsapp.com/BBsDgZGoLZmBEyVXZS8fy2z)
+
+</details>
+
+---
+### Paymentds Community
+
+<details>
+  <summary>Ver detalhes</summary>
+  Via de Comunicação
+
+1. [Whatsapp](https://chat.whatsapp.com/CsmpKskbaFK1dOzVhJXkGh)
+
+</details>
+
+---
+
+### MozDevz Beira
+
+<details>
+  <summary>Ver detalhes</summary>
+  Via de Comunicação
+
+1. [Whatsapp](https://chat.whatsapp.com/HE0iKdQxFDNGC6FBzVdnz0)
 
 ---

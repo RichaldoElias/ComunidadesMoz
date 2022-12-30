@@ -192,7 +192,7 @@ Developer Student Club Universidade Eduardo Mondlane é uma comunidade ou clube 
 ---
 ### Maputo Frontenders
 
-Somos uma comunidade de desenvolvedores com foco em partilhar conhecimento sobre as tecnologias e boas praticas de desenvolvimento frontend.
+Somos uma comunidade de desenvolvedores com foco em partilhar conhecimento sobre as tecnologias e boas práticas de desenvolvimento frontend.
 
 <details>
   <summary>Ver detalhes</summary>

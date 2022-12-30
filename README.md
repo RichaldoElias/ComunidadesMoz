@@ -198,12 +198,12 @@ Somos uma comunidade de desenvolvedores com foco em partilhar conhecimento sobre
   <summary>Ver detalhes</summary>
   Via de Comunicação
 
-1. [ Maputo Frontenders Community ](https://bit.ly/MptFrontenders)
-2. [Whatsapp](https://bit.ly/MFrontendersWhatsApp)
-3. [Twitter](https://bit.ly/MFrontendersTwitter)
-4. [Instagram](https://bit.ly/InstaMptFrontenders)
-5. [LinkedIn](https://bit.ly/MFrontendersLinkedIn)
-6. [YouTube](https://bit.ly/YTmptFrontenders)
+- [ Maputo Frontenders Community ](https://bit.ly/MptFrontenders)
+- [Whatsapp](https://bit.ly/MFrontendersWhatsApp)
+- [Twitter](https://bit.ly/MFrontendersTwitter)
+- [Instagram](https://bit.ly/InstaMptFrontenders)
+- [LinkedIn](https://bit.ly/MFrontendersLinkedIn)
+- [YouTube](https://bit.ly/YTmptFrontenders)
 
 </details>
 ---

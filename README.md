@@ -34,10 +34,10 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 * [Women Techmakers Maputo](#Women-Techmakers-Maputo)
 * [Developer Student Club Universidade Eduardo Mondlane](#developer-student-club-universidade-eduardo-mondlane)
 * [Maputo Frontenders](#Maputo-Frontenders)
-* [Flutter Moçambique](#Flutter-Mocambique)
+* [Flutter Moçambique](#flutter-moçambique)
 * [Paymentds Community](#Paymentds-Community)
 * [Laravel Maputo Community](#Laravel-Maputo-Community)
-* [MozDevz Beira](#MozDev-Beira)
+* [MozDevz Beira](#MozDevz-Beira)
 ---
 
 ### GDG - Google Developers Group

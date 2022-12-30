@@ -214,8 +214,8 @@ Somos uma comunidade de desenvolvedores com foco em partilhar conhecimento sobre
   <summary>Ver detalhes</summary>
   Via de Comunicação
 
-1. [ Telegram ](https://t.me/FlutterMoz)
-2. [Whatsapp](https://chat.whatsapp.com/LDCa69V6G6m2EPvHlLEjiz)
+- [Telegram](https://t.me/FlutterMoz)
+- [Whatsapp](https://chat.whatsapp.com/LDCa69V6G6m2EPvHlLEjiz)
 
 </details>
 ---

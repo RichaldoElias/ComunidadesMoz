@@ -38,7 +38,6 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 * [Paymentds Community](#Paymentds-Community)
 * [Laravel Maputo Community](#Laravel-Maputo-Community)
 * [MozDevz Beira](#MozDevz-Beira)
-* [Moz Android Community](#Moz-Android-Community)
 ---
 
 ### GDG - Google Developers Group
@@ -253,15 +252,3 @@ Somos uma comunidade de desenvolvedores com foco em partilhar conhecimento sobre
 1. [Whatsapp](https://chat.whatsapp.com/HE0iKdQxFDNGC6FBzVdnz0)
 
 ---
-
-### Moz Android Community
-
-O desenvolvimento Android é uma das áreas mais promissoras para novas oportunidades de carreira , junta te ao Moz Android Community que é uma comunidade que tem como foco unir todos os desenvolvedores do pais e possibilitar uma troca de experiências entre eles através de eventos, workshops, projectos práticos e code labs.
-
-<details>
-  <summary>Ver detalhes</summary>
-  Via de Comunicação
-
-1. [Whatsapp](https://chat.whatsapp.com/DnVITB50TX8IkB7rfyzKlL)
-
-</details>

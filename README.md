@@ -38,6 +38,8 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 * [Paymentds Community](#Paymentds-Community)
 * [Laravel Maputo Community](#Laravel-Maputo-Community)
 * [MozDevz Beira](#MozDevz-Beira)
+* [Moz Android Community](#Moz-Android-Community)
+
 ---
 
 ### GDG - Google Developers Group
@@ -250,5 +252,20 @@ Somos uma comunidade de desenvolvedores com foco em partilhar conhecimento sobre
   Via de Comunicação
 
 1. [Whatsapp](https://chat.whatsapp.com/HE0iKdQxFDNGC6FBzVdnz0)
+
+</details>
+
+---
+
+### Moz Android Community
+
+<details>
+  <summary>Ver detalhes</summary>
+  Via de Comunicação
+
+- [Whatsapp](https://chat.whatsapp.com/DnVITB50TX8IkB7rfyzKlL)
+- [Instagram](https://bit.ly/InstaMptFrontenders)
+
+</details>
 
 ---

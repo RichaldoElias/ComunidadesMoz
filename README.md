@@ -52,9 +52,9 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
   <summary>Ver detalhes</summary>
   Vias de Comunicação
 
-  1. [Meetup (Maputo)](https://www.meetup.com/pt-BR/GDG-Maputo/)
-  2. [Meetup (Beira)](https://www.meetup.com/pt-BR/Beira-GDG/)
-  3. [Meetup (Tete)](https://www.meetup.com/pt-BR/GDG-TETE/)
+  1. [GDG Maputo](https://gdg.community.dev/gdg-maputo/)
+  2. [GDG Beira](https://gdg.community.dev/gdg-beira/)
+  3. [GDG Tete](https://gdg.community.dev/gdg-tete/)
   4. [Grupo do Facebook (Maputo)](https://pt-br.facebook.com/groups/gdgmaputo/)
   5. [Medium](https://medium.com/android-dev-moz)
 
@@ -138,7 +138,7 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
   <summary>Ver detalhes</summary>
    Via de Comunicação
 
-1. [Whatsapp](https://chat.whatsapp.com/AtlP04I9rTL1GTbHPHKe3P)
+1. [Whatsapp](https://chat.whatsapp.com/Lqlzo70Im7B8DzXLWWFKsX)
 
 </details>
 
@@ -267,5 +267,3 @@ Somos uma comunidade de desenvolvedores com foco em partilhar conhecimento sobre
 <!--- - [Instagram](https://bit.ly/InstaMptFrontenders) --->
 
 </details>
-
----

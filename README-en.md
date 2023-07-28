@@ -27,6 +27,10 @@ If you know a community that's not listed here, you can send a PR, which will be
 * [PHP Maputo Community](#PHP-Maputo-Community)
 * [PyCom](#machine-learning-engineer-nanodegree)
 * [RIHA Community](#RIHA-Community)
+* [Designers Specialists Community](#Designers-Specialists-Community)
+* [IT Specialists Community](#IT-Specialists-Community)
+* [InfoSec&Network Community](#InfoSec&NetworkCommunity)
+
 
 ---
 

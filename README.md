@@ -39,6 +39,9 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 * [Laravel Maputo Community](#Laravel-Maputo-Community)
 * [MozDevz Beira](#MozDevz-Beira)
 * [Moz Android Community](#Moz-Android-Community)
+* [Designers Specialists Community](#Designers-Specialists-Community)
+* [IT Specialists Community](#IT-Specialists-Community)
+* [InfoSec&Network Community](#InfoSec&NetworkCommunity)
 
 ---
 
@@ -265,5 +268,41 @@ Somos uma comunidade de desenvolvedores com foco em partilhar conhecimento sobre
 
 - [Whatsapp](https://chat.whatsapp.com/DnVITB50TX8IkB7rfyzKlL)
 <!--- - [Instagram](https://bit.ly/InstaMptFrontenders) --->
+
+</details>
+
+---
+
+### Designers Specialists Community
+
+<details>
+  <summary>Ver detalhes</summary>
+  Via de Comunicação
+
+- [Whatsapp](https://chat.whatsapp.com/FNTCgUqwz2jE3hIAzT2iN0)
+
+</details>
+
+---
+
+### IT Specialists Community
+
+<details>
+  <summary>Ver detalhes</summary>
+  Via de Comunicação
+
+- [Whatsapp](https://chat.whatsapp.com/JBCNS1jwWRo9oQeM7JZVQL)
+
+</details>
+
+---
+
+### InfoSec&Network Community
+
+<details>
+  <summary>Ver detalhes</summary>
+  Via de Comunicação
+
+- [Whatsapp](https://chat.whatsapp.com/J7GKuiE4UmwBmbYVFlqDPB)
 
 </details>

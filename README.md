@@ -39,6 +39,8 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 * [Laravel Maputo Community](#Laravel-Maputo-Community)
 * [MozDevz Beira](#MozDevz-Beira)
 * [Moz Android Community](#Moz-Android-Community)
+* [Spring Dev Community](#Spring-Dev-Community)
+* [e2Payments Community](#e2Payments-Community)
 
 ---
 
@@ -265,5 +267,29 @@ Somos uma comunidade de desenvolvedores com foco em partilhar conhecimento sobre
 
 - [Whatsapp](https://chat.whatsapp.com/DnVITB50TX8IkB7rfyzKlL)
 <!--- - [Instagram](https://bit.ly/InstaMptFrontenders) --->
+
+</details>
+
+---
+
+### Spring Dev Community
+
+<details>
+  <summary>Ver detalhes</summary>
+  Via de Comunicação
+
+- [Whatsapp](https://chat.whatsapp.com/DCLlfZx6sVn7gl8uuxBsyv)
+
+</details>
+
+---
+
+### e2Payments Community
+
+<details>
+  <summary>Ver detalhes</summary>
+  Via de Comunicação
+
+- [Whatsapp](https://chat.whatsapp.com/H3yb0KLD3IO50e1lyDBtwd)
 
 </details>

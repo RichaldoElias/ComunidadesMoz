@@ -27,6 +27,10 @@ If you know a community that's not listed here, you can send a PR, which will be
 * [PHP Maputo Community](#PHP-Maputo-Community)
 * [PyCom](#machine-learning-engineer-nanodegree)
 * [RIHA Community](#RIHA-Community)
+* [Designers Specialists Community](#Designers-Specialists-Community)
+* [IT Specialists Community](#IT-Specialists-Community)
+* [InfoSec&Network Community](#InfoSec&NetworkCommunity)
+
 
 ---
 
@@ -108,3 +112,38 @@ If you know a community that's not listed here, you can send a PR, which will be
   2. [WhatsApp](https://chat.whatsapp.com/DRNbVPySnZS5snQH6RgdH6)
 </details>
 
+---
+
+### Designers Specialists Community
+
+<details>
+  <summary>See details</summary>
+  Contacts
+
+- [Whatsapp](https://chat.whatsapp.com/FNTCgUqwz2jE3hIAzT2iN0)
+
+</details>
+
+---
+
+### IT Specialists Community
+
+<details>
+  <summary>See details</summary>
+  Contacts
+
+- [Whatsapp](https://chat.whatsapp.com/JBCNS1jwWRo9oQeM7JZVQL)
+
+</details>
+
+---
+
+### InfoSec&Network Community
+
+<details>
+  <summary>See details</summary>
+  Contacts
+
+- [Whatsapp](https://chat.whatsapp.com/J7GKuiE4UmwBmbYVFlqDPB)
+
+</details>

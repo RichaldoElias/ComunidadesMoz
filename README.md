@@ -39,6 +39,8 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 * [Laravel Maputo Community](#Laravel-Maputo-Community)
 * [MozDevz Beira](#MozDevz-Beira)
 * [Moz Android Community](#Moz-Android-Community)
+* [Spring Dev Community](#Spring-Dev-Community)
+* [e2Payments Community](#e2Payments-Community)
 * [Designers Specialists Community](#Designers-Specialists-Community)
 * [IT Specialists Community](#IT-Specialists-Community)
 * [InfoSec&Network Community](#InfoSec&NetworkCommunity)
@@ -47,19 +49,19 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 
 ### GDG - Google Developers Group
 
-  GDG Maputo é uma comunidade local para desenvolvedores interessados em tecnologias da Google.
-  Em Moçambique, GDG encontra-se em 3 cidades: Maputo, Beira e Tete.
+GDG Maputo é uma comunidade local para desenvolvedores interessados em tecnologias da Google.
+Em Moçambique, GDG encontra-se em 3 cidades: Maputo, Beira e Tete.
 
 <details>
 
   <summary>Ver detalhes</summary>
   Vias de Comunicação
 
-  1. [GDG Maputo](https://gdg.community.dev/gdg-maputo/)
-  2. [GDG Beira](https://gdg.community.dev/gdg-beira/)
-  3. [GDG Tete](https://gdg.community.dev/gdg-tete/)
-  4. [Grupo do Facebook (Maputo)](https://pt-br.facebook.com/groups/gdgmaputo/)
-  5. [Medium](https://medium.com/android-dev-moz)
+1. [GDG Maputo](https://gdg.community.dev/gdg-maputo/)
+2. [GDG Beira](https://gdg.community.dev/gdg-beira/)
+3. [GDG Tete](https://gdg.community.dev/gdg-tete/)
+4. [Grupo do Facebook (Maputo)](https://pt-br.facebook.com/groups/gdgmaputo/)
+5. [Medium](https://medium.com/android-dev-moz)
 
 </details>
 
@@ -83,7 +85,7 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
   <summary>Ver detalhes</summary>
   Via de Comunicação
 
-  1. [Meetup](https://www.meetup.com/pt-BR/Lepsta-Developers-Maputo/)
+1. [Meetup](https://www.meetup.com/pt-BR/Lepsta-Developers-Maputo/)
 
 
 </details>
@@ -96,9 +98,9 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
   <summary>Ver detalhes</summary>
    Via de Comunicação
 
-  1. [Facebook](https://www.facebook.com/mozdevz/)
-  2. [Meetup](https://www.meetup.com/pt-BR/Mozdevz/)
-  3. [Telegram](https://t.me/MozDevz)
+1. [Facebook](https://www.facebook.com/mozdevz/)
+2. [Meetup](https://www.meetup.com/pt-BR/Mozdevz/)
+3. [Telegram](https://t.me/MozDevz)
 
 </details>
 
@@ -122,14 +124,14 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 
 ### PHP Maputo Community
 
-  PHP Maputo Community é uma comunidade PHP Moçambicana baseada em Maputo, para desenvolvedores de
-  software com interesses em PHP e Hack (HHVM) do Facebook.
+PHP Maputo Community é uma comunidade PHP Moçambicana baseada em Maputo, para desenvolvedores de
+software com interesses em PHP e Hack (HHVM) do Facebook.
 
 <details>
   <summary>Ver detalhes</summary>
    Via de Comunicação
 
-  1. [WhatsApp](https://chat.whatsapp.com/ILHtN728Hhp1St5Ag9eDji)
+1. [WhatsApp](https://chat.whatsapp.com/ILHtN728Hhp1St5Ag9eDji)
 
 </details>
 
@@ -149,21 +151,21 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 
 ### RIHA Community
 
-  RIHA Community é um grupo de jovens Moçambicanos usuários, analistas,
-  desenvolvedores e seguidores de produtos que tem alguma relação com a Riha,
-  com tantos desafios na divisão digital em Moçambique,
-  a nossa comunidade serve como uma central de análises de comportamentos.
+RIHA Community é um grupo de jovens Moçambicanos usuários, analistas,
+desenvolvedores e seguidores de produtos que tem alguma relação com a Riha,
+com tantos desafios na divisão digital em Moçambique,
+a nossa comunidade serve como uma central de análises de comportamentos.
 
-  RIHA é uma plataforma inovadora que permite oferecer serviços
-  de transferência de dinheiro e pagamentos de bens e serviços pela Internet.
-  Permite também efetuar depósitos e levantamentos de dinheiro através de agentes autorizados.
+RIHA é uma plataforma inovadora que permite oferecer serviços
+de transferência de dinheiro e pagamentos de bens e serviços pela Internet.
+Permite também efetuar depósitos e levantamentos de dinheiro através de agentes autorizados.
 
 <details>
   <summary>Ver detalhes</summary>
   Via de Comunicação
 
-  1. [RIHA website](https://www.riha.co.mz)
-  2. [WhatsApp](https://chat.whatsapp.com/DRNbVPySnZS5snQH6RgdH6)
+1. [RIHA website](https://www.riha.co.mz)
+2. [WhatsApp](https://chat.whatsapp.com/DRNbVPySnZS5snQH6RgdH6)
 </details>
 
 ---
@@ -268,6 +270,30 @@ Somos uma comunidade de desenvolvedores com foco em partilhar conhecimento sobre
 
 - [Whatsapp](https://chat.whatsapp.com/DnVITB50TX8IkB7rfyzKlL)
 <!--- - [Instagram](https://bit.ly/InstaMptFrontenders) --->
+
+</details>
+
+---
+
+### Spring Dev Community
+
+<details>
+  <summary>Ver detalhes</summary>
+  Via de Comunicação
+
+- [Whatsapp](https://chat.whatsapp.com/DCLlfZx6sVn7gl8uuxBsyv)
+
+</details>
+
+---
+
+### e2Payments Community
+
+<details>
+  <summary>Ver detalhes</summary>
+  Via de Comunicação
+
+- [Whatsapp](https://chat.whatsapp.com/H3yb0KLD3IO50e1lyDBtwd)
 
 </details>
 

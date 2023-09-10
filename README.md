@@ -44,6 +44,8 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 * [Designers Specialists Community](#Designers-Specialists-Community)
 * [IT Specialists Community](#IT-Specialists-Community)
 * [InfoSec&Network Community](#InfoSec&NetworkCommunity)
+* [SQL/NoSQL Community](#SQL/NoSQL-Community)
+* [Moz Design Community](#Moz-Design-Community)
 
 ---
 
@@ -329,5 +331,29 @@ Somos uma comunidade de desenvolvedores com foco em partilhar conhecimento sobre
   Via de Comunicação
 
 - [Whatsapp](https://chat.whatsapp.com/J7GKuiE4UmwBmbYVFlqDPB)
+
+</details>
+
+---
+
+### SQL/NoSQL Community
+
+<details>
+  <summary>Ver detalhes</summary>
+  Via de Comunicação
+
+- [Whatsapp](https://chat.whatsapp.com/Be3yI9OJ6i9HnBKyXka3ed)
+
+</details>
+
+---
+
+### Moz Design Community
+
+<details>
+  <summary>Ver detalhes</summary>
+  Via de Comunicação
+
+- [Whatsapp](https://chat.whatsapp.com/CXbVO4sq6Sx9VQW9jOG6cd)
 
 </details>

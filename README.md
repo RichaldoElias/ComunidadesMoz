@@ -44,7 +44,7 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 * [Designers Specialists Community](#Designers-Specialists-Community)
 * [IT Specialists Community](#IT-Specialists-Community)
 * [InfoSec&Network Community](#InfoSec&NetworkCommunity)
-* [SQL/NoSQL Community](#SQL/NoSQL-Community)
+* [SQL/NoSQL Community](#SqlNoSQL-Community)
 * [Moz Design Community](#Moz-Design-Community)
 
 ---

@@ -269,7 +269,6 @@ Somos uma comunidade de desenvolvedores com foco em partilhar conhecimento sobre
   Via de Comunicação
 
 - [Whatsapp](https://chat.whatsapp.com/DnVITB50TX8IkB7rfyzKlL)
-<!--- - [Instagram](https://bit.ly/InstaMptFrontenders) --->
 
 </details>
 

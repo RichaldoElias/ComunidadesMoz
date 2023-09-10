@@ -42,7 +42,7 @@ If you know a community that's not listed here, you can send a PR, which will be
 * [Designers Specialists Community](#Designers-Specialists-Community)
 * [IT Specialists Community](#IT-Specialists-Community)
 * [InfoSec&Network Community](#InfoSec&NetworkCommunity)
-* [SQL/NoSQL Community](#SQL/NoSQL-Community)
+* [SQL/NoSQL Community](#SqlNoSQL-Community)
 * [Moz Design Community](#Moz-Design-Community)
 
 ---

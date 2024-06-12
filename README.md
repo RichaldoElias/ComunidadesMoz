@@ -46,6 +46,8 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 * [InfoSec&Network Community](#InfoSec&NetworkCommunity)
 * [SQL/NoSQL Community](#SqlNoSQL-Community)
 * [Moz Design Community](#Moz-Design-Community)
+* [Django Girls Moz](#Django-Girls-Moz)
+* [Pyladies Maputo](#Pyladies-Maputo)
 
 ---
 
@@ -356,4 +358,36 @@ Somos uma comunidade de desenvolvedores com foco em partilhar conhecimento sobre
 
 - [Whatsapp](https://chat.whatsapp.com/CXbVO4sq6Sx9VQW9jOG6cd)
 
+</details>
+
+
+---
+
+### Django Girls Moz 🧡
+Django Girls é um workshop com duração de um dia, sobre programação em Python e Django focado especialmente para mulheres 
+<details>
+  <summary>Ver detalhes</summary>
+  Via de Comunicação
+
+- [Whatsapp](https://chat.whatsapp.com/7ufLDMUUPFO54UHmqH8rR8)
+- [LinkedIn](https://www.linkedin.com/company/djangogirlsmoz)
+- [X(Twitter)](https://twitter.com/djangogirlsmoz)
+- [IG](https://www.instagram.com/djangogirlsmoz/) 
+
+</details>
+
+---
+
+### Pyladies Maputo 💜
+Somos uma comunidade com foco em ajudar mais mulheres a se tornarem participantes activas e líderes na comunidade de código aberto Python.
+Venha pelo Python e fica pela Comunidade 🐍
+<details>
+  <summary>Ver detalhes</summary>
+  Via de Comunicação
+
+- [Whatsapp](https://chat.whatsapp.com/IVxKNCPTbZH9xbjpHxuBA2)
+- [LinkedIn](https://www.linkedin.com/company/pyladies-maputo/)
+- [X(Twitter)](https://x.com/PyLadiesMaputo)
+- [Meetup](https://www.meetup.com/mpt-pyladies/)
+  
 </details>

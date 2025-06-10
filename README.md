@@ -48,6 +48,8 @@ Se conheces uma comunidade não listada aqui, podes enviar um PR, que será de m
 * [Moz Design Community](#Moz-Design-Community)
 * [Django Girls Moz](#Django-Girls-Moz)
 * [Pyladies Maputo](#Pyladies-Maputo)
+* [DSAI For Moz](#Dsai-For-Moz)
+* [QA Community Moz](#QA-Community-Moz)
 
 ---
 
@@ -391,3 +393,30 @@ Venha pelo Python e fica pela Comunidade 🐍
 - [Meetup](https://www.meetup.com/mpt-pyladies/)
   
 </details>
+
+---
+
+### <a id="Dsai-For-Moz"></a> DSAI For Moz
+Somos uma comunidade moçambicana dedicada a promover **Data Science, Artificial Intelligence (AI)** e inovação tecnológica. Junte-se a nós para aprender, compartilhar e crescer no mundo dos dados e da inteligência artificial!  
+
+<details>  
+  <summary>Ver detalhes</summary>  
+
+- [WhatsApp Channel](https://whatsapp.com/channel/0029Vakk8wjHgZWaLtiHcF3Z)  
+- [LinkedIn](https://www.linkedin.com/company/dsai-for-moz)  
+- [WhatsApp](https://chat.whatsapp.com/IcqlFviLiHIBD3DBNBXfgc)  
+- [Website](https://dsai.co.mz)  
+
+</details>  
+
+---
+### <a id="QA-Community-Moz"></a> QA Community Moz 
+A primeira comunidade moçambicana dedicada a **Quality Assurance (QA) e Testes Automatizados**, criada para unir profissionais, partilhar conhecimento e elevar a qualidade do software no país.  
+
+<details>  
+  <summary>Ver detalhes</summary>  
+
+- [LinkedIn](https://www.linkedin.com/company/qa-community-moz/)  
+- [WhatsApp](https://chat.whatsapp.com/BO6tJjlxMyXB2K4AMPPlVm)  
+
+</details>  
